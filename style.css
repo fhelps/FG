@@ -20,6 +20,13 @@ body{
   width: 320px;
 }
 
+.pic {
+  
+    display: block;
+    width: 320px;
+    height: 320px;
+  
+}
 
 .ico{
   display: block;
