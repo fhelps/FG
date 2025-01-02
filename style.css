@@ -20,18 +20,29 @@ body{
   width: 320px;
 }
 
+
 .pic {
   
     display: block;
     width: 320px;
     height: 320px;
-  
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 15%;
+}
+
+
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
 }
 
 .ico{
   display: block;
   width: 320px;
   height: 320px;
+  
 }
 .open .ico{
   animation: open 4s;
